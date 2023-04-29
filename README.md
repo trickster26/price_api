@@ -19,7 +19,7 @@ Example response:
     
 ## How to Run
     To run the API locally, follow these steps:
-        1.)Clone the repository: "git clone https://github.com/trickster26/lithium_price_api.git"
+        1.)Clone the repository: "git clone https://github.com/trickster26/price_api.git"
         2.)Install the required dependencies: "pip install -r requirements.txt"
         3.)Run the Django development server: "python manage.py runserver"
         4.)The API will be available at "http://localhost:8000/price"
