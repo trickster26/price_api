@@ -26,6 +26,6 @@ Example response:
         
         
 ## Deployment
-    It is deployed on railway at with domain name https://priceapi-production-b1e1.up.railway.app/
-    For Price api will be available at https://priceapi-production-b1e1.up.railway.app/price/
-    Simply create a new app, link it to your GitHub repository, and configure the build and deployment settings.
+    i.)  It is deployed on railway at with domain name https://priceapi-production-b1e1.up.railway.app/
+    ii.) For Price api will be available at https://priceapi-production-b1e1.up.railway.app/price/
+    iii.)Simply create a new app, link it to your GitHub repository, and configure the build and deployment settings.
