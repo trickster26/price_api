@@ -1,4 +1,4 @@
-# lithium_api_price
+# price_api
 
 This is a simple API that retrieves the latest price of Lithium-ion batteries from the website https://www.metal.com/Lithium-ion-Battery/202303240001 and returns it as a JSON response.
 
@@ -23,3 +23,9 @@ Example response:
         2.)Install the required dependencies: "pip install -r requirements.txt"
         3.)Run the Django development server: "python manage.py runserver"
         4.)The API will be available at "http://localhost:8000/price"
+        
+        
+## Deployment
+    It is deployed on railway at with domain name https://priceapi-production-b1e1.up.railway.app/
+    For Price api will be available at https://priceapi-production-b1e1.up.railway.app/price/
+    Simply create a new app, link it to your GitHub repository, and configure the build and deployment settings.
