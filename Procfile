@@ -1,0 +1,1 @@
+web: gunicorn price_api.wsgi
